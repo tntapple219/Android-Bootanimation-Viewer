@@ -48,7 +48,10 @@ Open your terminal or command prompt and navigate to the directory where you sav
     python bootanimation_previewer.py -f "/path/to/your/bootanimation.zip"
     ```
     (Replace `"/path/to/your/bootanimation.zip"` with the actual full path to your file. Use quotes if the path contains spaces!)
-
+* **To change preview scale for `bootanimation.zip`  (using the `-s` or `--scale` argument):**
+    ```bash
+    python bootanimation_previewer.py -s 0.5
+    ```
 ---
 
 ## ⚠️ Important Notes
